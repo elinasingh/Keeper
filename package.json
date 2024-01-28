@@ -5,9 +5,12 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
-    "react": "18.2.0",
-    "react-dom": "18.2.0"
-    
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.15.6",
+    "@mui/material": "^5.15.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "react-scripts": "5.0.1"
